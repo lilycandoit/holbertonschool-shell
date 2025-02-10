@@ -6,3 +6,5 @@
 - **Task-1**: Display contents list
 
 - **Task-2**: Change to user's home directory
+
+- **Task-3**: Display current directory contents in long format
