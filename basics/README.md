@@ -10,3 +10,9 @@
 - **Task-3**: Display current directory contents in long format
 
 - **Task-4**: List hidden files
+
+- **Task-5**: List out long, hidden, digit info only
+
+- **Task-6**: Create new directory in /tmp
+
+- **Task-7**: Move betty file to new directory
